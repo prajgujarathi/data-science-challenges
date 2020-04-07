@@ -16,11 +16,13 @@ To help with this, we have provided
 
 ● data_description.txt: description of all columns in historical_data.csv and details of data_to_predict.csv
 
-Historical_data.ipynb is jupyter notebook, with training data preparation, cleaning, feature engineering and model creation
-Prediction_data.ipynb is jupyter notebook, with test data preparation cleaning and prediction. 
-Prediction.csv has prediction for delivery_id. 
+**Historical_data.ipynb** is jupyter notebook, with training data preparation, cleaning, feature engineering and model creation
 
-Food_Delivery_Time_Prediction.docx is report created for this data challange. 
+**Prediction_data.ipynb** is jupyter notebook, with test data preparation cleaning and prediction. 
+
+**Prediction.csv** has prediction for delivery_id. 
+
+**Food_Delivery_Time_Prediction.docx** is report created for this data challange. 
 
 ## Author
 
